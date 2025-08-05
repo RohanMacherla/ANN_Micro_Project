@@ -62,7 +62,7 @@ ROC AUC Score: **~0.9968 (Multiclass AUC using OVR)**
 
 **🚀 How to Run**
 **Clone the repository:**
-git clone https://github.com/your-username/liver-disease-classification.git<br>
+git clone https://github.com/RohanMacherla/ANN_Micro_Project.git<br>
 cd liver-disease-classification<br>
 **Install required packages:**
 pip install -r requirements.txt<br>
